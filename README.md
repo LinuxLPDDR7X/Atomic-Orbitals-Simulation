@@ -12,7 +12,7 @@ This project is a simulation of atomic orbitals designed for visualization purpo
 
 1. Clone the repository:
     ```
-    git clone [<repository-url>](https://github.com/LinuxLPDDR7X/Atomic-Orbitals-Simulation)
+    git clone https://github.com/LinuxLPDDR7X/Atomic-Orbitals-Simulation
     ```
 2. Follow the instructions in the project to run the simulation.
 
